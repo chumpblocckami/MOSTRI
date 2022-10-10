@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "power": 10,
+    "ability": "",
+    "rarity": 19,
+    "name": "Gorillape"
+  },
+  {
+    "id": 1,
+    "power": 2,
+    "ability": "Though, Poisonous",
+    "rarity": 1,
+    "name": "Scorpione Rotto"
+  }
+]
